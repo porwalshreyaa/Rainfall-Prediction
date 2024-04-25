@@ -2,6 +2,8 @@
 
 >While I started it as a data science/machine learning project ( *which I often find boring* ), it evolved into data engineering project ( *something I love to do!* ).
 
+>[Kaggle version](https://www.kaggle.com/code/shreyaporwall/rain-prediction)
+
 
 `rain-prediction.ipynb` is the kaggle notebook I downloaded after the data analysis part was done. Later I added more code in it.
 
