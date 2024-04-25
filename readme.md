@@ -25,5 +25,10 @@ Since, this data contains daily weather information of entire Australia. I had t
 
 >This file has all the analysis and the model
 
->I've commented it well!
+1. Data Cleaning
+2. EDA
+3. Model Training
+4. Model Evaluation
+   
+I've commented it well!
 
