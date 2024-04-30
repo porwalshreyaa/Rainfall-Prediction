@@ -5,3 +5,5 @@ xgboost
 imblearn
 scikit-learn
 seaborn
+ipykernel
+ipython
